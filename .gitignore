@@ -1,0 +1,7 @@
+build/
+external/
+env/
+resources/
+.vscode/
+schematic/**/*.zip
+
